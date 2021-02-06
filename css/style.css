@@ -1,0 +1,107 @@
+body
+{
+	font-family: 'Roboto' !important;
+	overflow-x: hidden;
+}
+
+/* Header CSS */
+
+.header-div {
+    height: 340px;
+    background-color: #65cd00;
+}
+.comp-name {
+    text-align: center;
+    margin: 5%;
+}
+.main_heading h1
+{
+	font-size: 55px;
+    font-weight: 500;
+    text-align: center;
+    color: #777;
+}
+.features-div
+{
+	text-align: center;
+    -webkit-transition: all .15s linear;
+    -moz-transition: all .15s linear;
+    -ms-transition: all .15s linear;
+    -o-transition: all .15s linear;
+    transition: all .15s linear;
+}
+
+.features-div:hover
+{
+	margin-top: -10px;
+}
+
+
+.features-div i
+{
+	font-size: 35px;
+    font-weight: 300;
+    color: #65CD00;
+}
+
+.features-div h4
+{
+    color: #393939;
+    font-weight: 400;
+}
+
+.features-div p
+{
+    color: #636363;
+    font-size: 17px;
+    font-weight: 300;
+    line-height: 25px;
+}
+
+
+.underline
+{
+    display: inline-block;
+    width: 160px;
+    height: 2px;
+    background-color: #65CD00;
+}
+
+
+.singel_services{
+    border: 1px solid #65CD00;
+    border-radius: 4px;
+    padding: 20px 15px;
+    -webkit-transition: all 0.4s ease-in-out;
+    transition: all 0.4s ease-in-out;
+}
+.services_icon{
+    padding-bottom: 15px;
+}
+.services_icon img{
+    width: 80px;
+}
+
+.services_content h4{
+    font-size: 24px;
+    font-weight: 600;
+    margin-bottom: 15px;
+}
+
+
+.singel_services:hover{
+    -webkit-transform: translateY(-10px);
+    transform: translateY(-10px);
+    -webkit-box-shadow: 0px 5px 15px 0px rgba(0,0,0,0.35);
+    box-shadow: 0px 5px 15px 0px rgba(0,0,0,0.35);
+}
+
+.contact-us{
+	background-color: #65CD00;
+	height: 200px;
+	text-align: center;
+}
+
+.contact-us h2{
+	margin-top: 7%;
+}
