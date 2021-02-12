@@ -119,7 +119,7 @@ body
 
 .contact-us{
 	background-color: #ffc000;
-	height: 280px;
+	height: 330px;
 	text-align: center;
 }
 .contact-us .underline{
@@ -130,7 +130,7 @@ body
 {
     .header-div
     {
-        height: 420px;
+        height: 500px;
     }
     .comp-name h1
     {
@@ -146,8 +146,8 @@ body
 
     .logo-img img 
     {
-    height: 160px;
-    width: 108px;
+    height: 150px;
+    width: 100px;
     }
 
   
